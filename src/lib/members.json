@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Angela D. Alsobrooks",
+        "state": "Maryland",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Tammy Baldwin",
+        "state": "Wisconsin",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Jim Banks",
+        "state": "Indiana",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "John Barrasso",
+        "state": "Wyoming",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Michael F. Bennet",
+        "state": "Colorado",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Marsha Blackburn",
+        "state": "Tennessee",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Richard Blumenthal",
+        "state": "Connecticut",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Lisa Blunt Rochester",
+        "state": "Delaware",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Cory A. Booker",
+        "state": "New Jersey",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "John Boozman",
+        "state": "Arkansas",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Katie Boyd Britt",
+        "state": "Alabama",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Ted Budd",
+        "state": "North Carolina",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Maria Cantwell",
+        "state": "Washington",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Shelley Moore Capito",
+        "state": "West Virginia",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Bill Cassidy",
+        "state": "Louisiana",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Susan M. Collins",
+        "state": "Maine",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Christopher A. Coons",
+        "state": "Delaware",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "John Cornyn",
+        "state": "Texas",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Catherine Cortez Masto",
+        "state": "Nevada",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Tom Cotton",
+        "state": "Arkansas",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Kevin Cramer",
+        "state": "North Dakota",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Mike Crapo",
+        "state": "Idaho",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Ted Cruz",
+        "state": "Texas",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "John R. Curtis",
+        "state": "Utah",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Steve Daines",
+        "state": "Montana",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Tammy Duckworth",
+        "state": "Illinois",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Richard J. Durbin",
+        "state": "Illinois",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Joni Ernst",
+        "state": "Iowa",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "John Fetterman",
+        "state": "Pennsylvania",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Deb Fischer",
+        "state": "Nebraska",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Ruben Gallego",
+        "state": "Arizona",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Kirsten E. Gillibrand",
+        "state": "New York",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Lindsey Graham",
+        "state": "South Carolina",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Chuck Grassley",
+        "state": "Iowa",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Bill Hagerty",
+        "state": "Tennessee",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Margaret Wood Hassan",
+        "state": "New Hampshire",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Josh Hawley",
+        "state": "Missouri",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Martin Heinrich",
+        "state": "New Mexico",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "John W. Hickenlooper",
+        "state": "Colorado",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Mazie K. Hirono",
+        "state": "Hawaii",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "John Hoeven",
+        "state": "North Dakota",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Jon Husted",
+        "state": "Ohio",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Cindy Hyde-Smith",
+        "state": "Mississippi",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Ron Johnson",
+        "state": "Wisconsin",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "James C. Justice",
+        "state": "West Virginia",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Tim Kaine",
+        "state": "Virginia",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Mark Kelly",
+        "state": "Arizona",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "John Kennedy",
+        "state": "Louisiana",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Andy Kim",
+        "state": "New Jersey",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Angus S. King, Jr.",
+        "state": "Maine",
+        "party": "Independent",
+        "class": "I"
+    },
+    {
+        "name": "Amy Klobuchar",
+        "state": "Minnesota",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "James Lankford",
+        "state": "Oklahoma",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Mike Lee",
+        "state": "Utah",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Ben Ray Luján",
+        "state": "New Mexico",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Cynthia M. Lummis",
+        "state": "Wyoming",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Edward J. Markey",
+        "state": "Massachusetts",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Roger Marshall",
+        "state": "Kansas",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Mitch McConnell",
+        "state": "Kentucky",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "David McCormick",
+        "state": "Pennsylvania",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Jeff Merkley",
+        "state": "Oregon",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Ashley Moody",
+        "state": "Florida",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Jerry Moran",
+        "state": "Kansas",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Bernie Moreno",
+        "state": "Ohio",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Markwayne Mullin",
+        "state": "Oklahoma",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Lisa Murkowski",
+        "state": "Alaska",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Christopher Murphy",
+        "state": "Connecticut",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Patty Murray",
+        "state": "Washington",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Jon Ossoff",
+        "state": "Georgia",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Alex Padilla",
+        "state": "California",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Rand Paul",
+        "state": "Kentucky",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Gary C. Peters",
+        "state": "Michigan",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Jack Reed",
+        "state": "Rhode Island",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Pete Ricketts",
+        "state": "Nebraska",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "James E. Risch",
+        "state": "Idaho",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Jacky Rosen",
+        "state": "Nevada",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Mike Rounds",
+        "state": "South Dakota",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Bernard Sanders",
+        "state": "Vermont",
+        "party": "Independent",
+        "class": "I"
+    },
+    {
+        "name": "Brian Schatz",
+        "state": "Hawaii",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Adam B. Schiff",
+        "state": "California",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Eric Schmitt",
+        "state": "Missouri",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Charles E. Schumer",
+        "state": "New York",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Rick Scott",
+        "state": "Florida",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Tim Scott",
+        "state": "South Carolina",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Jeanne Shaheen",
+        "state": "New Hampshire",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Tim Sheehy",
+        "state": "Montana",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Elissa Slotkin",
+        "state": "Michigan",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Tina Smith",
+        "state": "Minnesota",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Dan Sullivan",
+        "state": "Alaska",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "John Thune",
+        "state": "South Dakota",
+        "party": "Republican",
+        "class": "III"
+    },
+    {
+        "name": "Thom Tillis",
+        "state": "North Carolina",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Tommy Tuberville",
+        "state": "Alabama",
+        "party": "Republican",
+        "class": "II"
+    },
+    {
+        "name": "Chris Van Hollen",
+        "state": "Maryland",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Mark R. Warner",
+        "state": "Virginia",
+        "party": "Democratic",
+        "class": "II"
+    },
+    {
+        "name": "Raphael G. Warnock",
+        "state": "Georgia",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Elizabeth Warren",
+        "state": "Massachusetts",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Peter Welch",
+        "state": "Vermont",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Sheldon Whitehouse",
+        "state": "Rhode Island",
+        "party": "Democratic",
+        "class": "I"
+    },
+    {
+        "name": "Roger F. Wicker",
+        "state": "Mississippi",
+        "party": "Republican",
+        "class": "I"
+    },
+    {
+        "name": "Ron Wyden",
+        "state": "Oregon",
+        "party": "Democratic",
+        "class": "III"
+    },
+    {
+        "name": "Todd Young",
+        "state": "Indiana",
+        "party": "Republican",
+        "class": "III"
+    }
+]
